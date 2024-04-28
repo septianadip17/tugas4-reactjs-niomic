@@ -1,3 +1,10 @@
+# TUGAS 4 REACT JS
+
+# Tujuan :
+- Memahami cara menghubungkan State dan Input Value.
+- Memahami cara penggunaan Dynamic Method.
+- Memahami cara penggunaan Conditional Rendering.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
